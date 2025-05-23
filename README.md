@@ -85,17 +85,5 @@ This is the frontend for the Task Manager web application, built with **React**.
 
 ## Deployment
 
-- **Hosting:** Deploy on **Vercel, Netlify, or Firebase Hosting**
+- **Hosting:** Deployed on **Vercel
 - **Environment Variables:** Ensure API base URL is set properly
-
-## Contribution Guidelines
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-branch`
-3. Make your changes and commit: `git commit -m "Your message"`
-4. Push to the branch: `git push origin feature-branch`
-5. Submit a pull request
-
-## License
-
-This project is licensed under the **MIT License**.
