@@ -4,6 +4,9 @@
 
 This is the frontend for the Task Manager web application, built with **React**. It provides a user-friendly interface for task management, user authentication, and profile handling. The application integrates with a backend API to perform CRUD operations on tasks and manage user authentication.
 
+Project URL:
+https://task-management-frontend-liard.vercel.app
+
 ## Features
 
 - **User Authentication**
